@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @beckgast
+- 👀 I’m interested in creating a resource hub for my students and using data for fun projects
+- 🌱 I’m currently learning how to use web scraping tools, python, google sheets, and website building tools
+- 💞️ I’m not currently looking to collaborate
+- 📫 How to reach me: beckgast@tutanota.com
